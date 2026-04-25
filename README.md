@@ -28,7 +28,7 @@ Browser-based game built using JavaScript and HTML5 Canvas, featuring real-time 
 ## 🌐 Connect
 
 <p>
-  <a href="https://linkedin.com/in/aiesha-ganguly-490b59354">
+  <a href="https://linkedin.com/in/aiesha-ganguly">
     <img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
