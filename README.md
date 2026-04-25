@@ -1,18 +1,54 @@
-# 🌟 Hi, I’m Aiesha
-🧠 Full-stack developer in progress<br>⚙️ Building web projects to strengthen fundamentals and problem-solving<br>
+# 🌿 Hi, I’m Aiesha
+💻 Aspiring Full-Stack Developer  
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiesha-ganguly-490b59354) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aieshaganguly@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deeflowdev&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=deeflowdev&theme=calm_pink&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deeflowdev&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+🌱 Building real-world web applications  
+🧩 Focused on clean code and problem-solving  
+📚 Currently learning React and backend development  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deeflowdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Projects
+
+### 🐍 Snake Game  
+Browser-based game built using JavaScript and HTML5 Canvas, featuring real-time rendering, collision detection, and smooth game loop logic.  
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-E75480?style=for-the-badge&logo=vercel&logoColor=white)](https://deeflowdev.github.io/snake-game/)
+[![Code](https://img.shields.io/badge/Code-E6F4EA?style=for-the-badge&logo=github&logoColor=2E7D32)](https://github.com/deeflowdev/snake-game)
+
+---
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p>
+  <a href="https://linkedin.com/in/aiesha-ganguly-490b59354">
+    <img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=deeflowdev&show_icons=true&theme=tokyonight&hide_border=false&border_color=F8A5C2&title_color=F78FB3&icon_color=F78FB3&text_color=c9c9c9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=deeflowdev&theme=tokyonight&hide_border=false&ring=F78FB3&fire=F78FB3&currStreakLabel=F78FB3&sideLabels=c9c9c9&dates=c9c9c9&border=F8A5C2" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeflowdev&layout=compact&theme=tokyonight&hide_border=false&border_color=F8A5C2&title_color=F78FB3&text_color=c9c9c9" />
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&height=100&section=footer"/>
+</p>
