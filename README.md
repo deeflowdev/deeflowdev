@@ -1,113 +1,54 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F8C8DC" width="100%" />
-</p>
 
-# ☁︎ hey, i'm aiesha
 
-<div align="center">
+# ☁︎ Hey, I'm Aiesha
 
-a curious developer who spends her days building for the web and her nights wondering if one more feature is really necessary.
-some projects turn into lessons, some into favourite memories, and some into bugs that somehow only appear at 2am.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="300"/>
 
-<h3>✦ welcome to my little collection of all three ✦</h3>
+Frontend developer building thoughtful, responsive web experiences.
 
-</div>
+Currently learning **Node.js**, **Express**, **backend development**, and **DSA** while exploring full-stack development.
 
----
+⌘ Building modern interfaces with **React** & **Tailwind CSS**
 
-## ☾ about me
+⌘ Exploring backend development with **Node.js** & **Express**
 
-i enjoy building things for the web and exploring new technologies through projects.
+⌘ Focused on clean code, smooth animations & thoughtful UI
 
-⌘ interested in frontend development and thoughtful ui  
-⌘ currently learning more about backend development and dsa  
-⌘ always building, experimenting, and improving
+<br>
 
----
-
-## ☾ featured projects
-
-### 💼 employee management system
-
-> role-based dashboard with authentication, task assignment, and kanban boards.
-
-<p>
-<a href="https://employee-management-system-ruby-kappa.vercel.app">
-<img src="https://img.shields.io/badge/live_demo-f7a8c4?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/starlitpixel/employee-management-system">
-<img src="https://img.shields.io/badge/source_code-ffe4ec?style=for-the-badge&logo=github&logoColor=6d4c5b"/>
-</a>
-</p>
-
----
-
-### 🕹️ snake game
-
-> browser-based game built with javascript and html5 canvas.
-
-<p>
-<a href="https://starlitpixel.github.io/snake-game">
-<img src="https://img.shields.io/badge/live_demo-f7a8c4?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/starlitpixel/snake-game">
-<img src="https://img.shields.io/badge/source_code-ffe4ec?style=for-the-badge&logo=github&logoColor=6d4c5b"/>
-</a>
-</p>
-
----
-
-## ✿ tech stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,git,github,vscode,figma" />
-
-</div>
-
----
-
-## ☁︎ github activity
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=starlitpixel&show_icons=true&theme=tokyonight&hide_border=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=D6B3C0"/>
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=starlitpixel&layout=compact&theme=tokyonight&hide_border=true&title_color=F7A8C4&text_color=D6B3C0"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=starlitpixel&theme=tokyonight&background=00000000&border=FADADD&ring=F8A5C2&fire=F8A5C2&currStreakLabel=F8A5C2&sideNums=F8A5C2&sideLabels=C89AA9&dates=C89AA9"/>
-
-</div>
-
----
-
-## ✧ connect
-
-<div align="center">
+<p align="left">
 
 <a href="https://linkedin.com/in/aiesha-ganguly">
 <img src="https://img.shields.io/badge/linkedin-f7a8c4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://aiesha-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/portfolio-ffe4ec?style=for-the-badge&logo=vercel&logoColor=6d4c5b"/>
 </a>
 
 <a href="https://open.spotify.com/user/ws3sth8h1h0tavj6iisuh455v">
 <img src="https://img.shields.io/badge/spotify-f7a8c4?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
-</div>
+</p>
+
 
 ---
+
+## ☁︎ GitHub Activity
+
 <div align="center">
 
-✦ ── ⋆⋅☆⋅⋆ ── ✦
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aieshapxl&show_icons=true&theme=tokyonight&hide_border=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=D6B3C0"/>
 
-built with curiosity, creativity & countless cups of coffee </>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aieshapxl&layout=compact&theme=tokyonight&hide_border=true&title_color=F7A8C4&text_color=D6B3C0"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=aieshapxl&theme=tokyonight&background=00000000&border=FADADD&ring=F8A5C2&fire=F8A5C2&currStreakLabel=F8A5C2&sideNums=F8A5C2&sideLabels=C89AA9&dates=C89AA9"/>
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=F8C8DC" width="100%" />
+</p>
