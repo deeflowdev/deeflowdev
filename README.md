@@ -39,9 +39,9 @@ Currently learning **Node.js**, **Express**, **backend development**, and **DSA*
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aieshapxl&show_icons=true&theme=tokyonight&hide_border=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=D6B3C0"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=aieshapxl&show_icons=true&theme=tokyonight&hide_border=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=D6B3C0"/>
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aieshapxl&layout=compact&theme=tokyonight&hide_border=true&title_color=F7A8C4&text_color=D6B3C0"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aieshapxl&layout=compact&theme=tokyonight&hide_border=true&title_color=F7A8C4&text_color=D6B3C0"/>
 
 <br><br>
 
